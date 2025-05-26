@@ -1,12 +1,10 @@
 # 🔥 Promethean Code Forge  
-*"Every line of code is a spark. Some ignite engines. Others, empires."*  
+*"Fire became tools, tools became machines, machines became empires. "*  
 
 ---
 
 ## **Mythic Origins**  
 In the age when gods hoarded fire, **Prometheus**, the Titan of forethought, defied Olympus. He stole the divine flame and gifted it to humanity—**fire**, the seed of *techne* (craft), from which sprang writing, mathematics, medicine, and all arts of civilization. For this rebellion, Zeus condemned him to eternal torment: chained to a rock, his liver devoured daily by an eagle, only to regenerate and suffer.  
-
-Yet, from this agony arose humanity’s ascent. Fire became tools, tools became machines, machines became empires.  
 
 ---
 
